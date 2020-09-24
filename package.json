@@ -1,0 +1,16 @@
+{
+  "name": "RAMStat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "Wengiel",
+  "license": "The Unlicense",
+  "dependencies": {
+    "express": "^4.17.1",
+    "os": "^0.1.1",
+    "socket.io": "^2.3.0"
+  }
+}
